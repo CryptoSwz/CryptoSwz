@@ -21,7 +21,7 @@ bash <(curl -sL kejilion.sh)
 创建一个 Telegram 机器人：
 打开 Telegram 应用，搜索 "BotFather" 并开始对话。
 发送 /start 命令，然后发送 /newbot 创建一个新机器人。
-按照提示为你的机器人命名并选择一个用户名（必须以 "bot" 结尾）。
+按照提示为你的机器人命名并选择一个用户名（必须以 "_bot" 结尾）。
 创建完成后，BotFather 会返回一个 API Token，这个 Token 用于访问 Telegram Bot API。
 
 找到你的 Telegram 用户 ID：
